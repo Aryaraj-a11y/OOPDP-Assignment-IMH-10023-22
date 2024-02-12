@@ -32,6 +32,7 @@ class Student
     {
         void studentclass()
         {
+            super.studentclass();
             System.out.println("I am a CSE AI student");
         }
     }
