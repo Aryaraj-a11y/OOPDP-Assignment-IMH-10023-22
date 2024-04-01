@@ -17,7 +17,7 @@ public class Lab9ques11 {
        String s1 = sc.next();
        System.out.println("Enter second string :");
        String s2 = sc.next();
-       System.out.println("Enter second string :");
+       System.out.println("Enter third string :");
        String s3 = sc.next();
        
        boolean res = s1.endsWith(s3)&& s2.endsWith(s3);
