@@ -32,7 +32,7 @@ class Main
           for(int i=0;i<m;i++)
           {
             int y = sc.nextInt();
-            arr.add(y);
+            brr.add(y);
           }
           if(arr.equals(brr)==true)
           {
