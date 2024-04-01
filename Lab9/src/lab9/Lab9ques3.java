@@ -33,6 +33,6 @@ public class Lab9ques3 {
           }
           arr.addAll(brr);
           System.out.println("The maximum element in the arrayList is : "+Collections.max(arr));
-          System.out.println("The maximum element in the arrayList is : "+Collections.min(arr));
+          System.out.println("The minimum element in the arrayList is : "+Collections.min(arr));
     }
 }
